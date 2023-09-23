@@ -1,0 +1,112 @@
+<DOCTYPE html >
+<html>
+    <head>
+        <title>Christian HTML</title>
+        <style>
+            body{ 
+                
+                background:#001e4a;
+                color:green;
+                
+                }
+          
+           .welcome{
+               color: violet;
+               font-size:50px;
+               font-style:oblique;
+           }
+          .top span{
+              color : orange;
+          }
+          .info{
+             border: 6px solid #15ffe0;
+             padding: 6px;
+             margin:6px;
+             
+         }
+         b{
+             color: Orange;
+             font-size:23px;
+         }
+         img{
+             width:70%;
+         } 
+        </style>
+    </head>
+    <body>
+        <center>
+            
+            <h1 class="Welcome"> CSS DEPARTMENT</h1> <hr>
+            <h3 class ="top">,Hello  <span>"☺️"</h3>
+            <img src="IMG_20230914_164102.jpg">
+<html>
+    <head>
+        <title>Christian HTML</title>
+        <style>
+            body{ 
+                
+                background:#001e4a;
+                color:green;
+                
+                }
+          
+           .welcome{
+               color: violet;
+               font-size:50px;
+               font-style:oblique;
+           }
+          .top span{
+              color : orange;
+          }
+          .info{
+             border: 6px solid #15ffe0;
+             padding: 6px;
+             margin:6px;
+             
+         }
+         b{
+             color: orange;
+             font-size:23px;
+         }
+         img{
+             width:71%;
+         } 
+        </style>
+    </head>
+    <body>
+        <center>
+            
+     
+ <h1> <tth scope="row">  NAME: </h1> <h2>Villarino Christian E.</h2> </h1> <tth scope="row"> AGE: </h1> <h2>22 </h2> </th> 
+ <h1> <tth scope="row"> SEX: </h1> <h2> male </h2> </th>
+ <h1> <tth scope="row"> BIRTHDAY: </h1> <h2> September 25,2000 </h2> </th> 
+  <h1> <tth scope="row"> CIVIL STATUS: </h1> <h2> Single </h2> </th> 
+   <h1> <tth scope="row"> NATIONALITY: </h1> <h2> Filipino </h2> </th> 
+  <h1>  <tth scope="row"> SCHOOL: </h1>
+    <h2> Central Philippines State University </h2> </th>
+      <h1> <tth scope="row"> YEAR AND SECTION : </h1> <h2> 3-E  </h2> </th> 
+           <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+         
+           <title></title>
+           
+         </head>
+  </html>
+       <hr>
+       
+            <div class="info">
+            <h1></h1>
+            <b>Contact no.:</b> 09515659983 <br>
+            <b>Instagram account :</b>                                                        
+              Cristian_villarino_<br>
+            <b>Email:</b> christianvillarino702@gamail.com
+            <br>
+            <br>
+            </div>
+            <br>
+       </center>
+    </body>
+         
+               
+         
+     
+ 
